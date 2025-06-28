@@ -2,7 +2,7 @@ def procesar_nombre(nombre):
     if isinstance(nombre, str):
         return nombre.capitalize()
     return "Error nombre"
-##esto es un test 2
+
 
 def procesar_apellido_paterno(apellido_p):
     if isinstance(apellido_p, str):
